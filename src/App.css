@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@import "tailwindcss";
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.poppins-thin {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.description::-webkit-scrollbar{
+    display: none;
+}
+
+.edit_description{
+    max-height: fit-content;
+}
+.text_Description::-webkit-scrollbar{
+    display: none;
+}
