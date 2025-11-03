@@ -43,8 +43,8 @@ Future updates plan to integrate a complete **MERN Stack** backend for manual au
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/khalilkhancodes/keep-notes.git
-cd keep-notes
+git clone https://github.com/khalilkhancodes/Keep-Notes-App
+cd Keep-Notes-App
 
 npm create vite@latest keep-notes
 cd keep-notes
